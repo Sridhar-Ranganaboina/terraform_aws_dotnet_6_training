@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/bin
+/infra/.terraform/providers/registry.terraform.io/hashicorp/aws/4.32.0/windows_amd64
+/obj
