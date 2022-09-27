@@ -1,0 +1,1 @@
+# terraform_aws_dotnet_6_training
